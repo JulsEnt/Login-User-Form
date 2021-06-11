@@ -1,0 +1,102 @@
+*
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0%;
+    background-image: url(./bb/bk2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.topic{
+    width: 620px;
+    height: 200px;
+    background-color: orange;
+    opacity: 60%;
+    float: right;
+    margin-top: 16%;
+    margin-right: 5%;
+    border-radius: 30px;
+}
+.justinbieber{
+    width: 380px;
+    height: 590px;
+    background-color: beige;
+    float: left;
+    margin-left: 8%;
+    margin-top: 3%;
+    border-radius: 20px;
+}
+.uju{
+    padding: 10%;
+    font-size: 25px;
+    color: orange;
+}
+.wizkid{
+    padding: 10%;
+    margin-top: -20%;
+}
+.name1{
+    width: 280px;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    margin-top: 4%;
+}
+.name33{
+    width: 280px;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    margin-top: 4%;
+}
+.emailbox{
+    width: 280px;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    margin-top: 4%;
+}
+.passbox{
+    width: 280px;
+    padding: 10px;
+    outline: none;
+    border: none;
+    margin-top: 4%;
+}
+.box{
+    margin-top: 4%;
+}
+.click{
+    margin-left: 10%;
+    margin-top: -6%;
+}
+.terms{
+    color:orange;
+}
+#dion{
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+    background-color:orange;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    outline: none;
+}
+.texttype{
+    margin-left: 22%;
+    margin-top: 3%;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
